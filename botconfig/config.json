@@ -1,0 +1,33 @@
+{
+  "token" : "ODg1MDM4NTE0MDYyODkzMDU2.YThOWA.xAwzQ9oofTEX4ve1BuVfd9p_eFM",
+   "prefix": ".",
+   "ownerIDS": [
+      "715237338162135130" , "885038514062893056"
+   ],
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "techboy"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "1b5aedea6eb04358aaebee7d76047f80",
+      "clientID": "b458566df412473d800daacdd5937e8f"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": false,
+         "time_delay": 60000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": false,
+         "time_delay": 10000
+      },
+      "selfDeaf": true
+   }
+
+}  
